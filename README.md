@@ -30,3 +30,6 @@ exploit
 فتح الكاميرا سراً: webcam_stream.
 
 تحديد الموقع: geolocate.
+
+-----------------------------------------------------
+sudo apt install python3-pip -y
